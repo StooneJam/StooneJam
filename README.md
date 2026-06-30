@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Visitors](https://komarev.com/ghpvc/?username=StooneJam)
+![Streak](https://streak-stats.demolab.com/?user=StooneJam)
