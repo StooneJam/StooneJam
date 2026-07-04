@@ -1,4 +1,8 @@
 <div>
+    <div align="center">
+  <img src="Art Pink GIF by dualvoidanima.gif" width="500" alt="banner"/>
+</div>
+<br/>
     <h2 align="center">😎 About Me</h2>
     <p>
         I'm from China 🇨🇳, currently living in Bristol, United Kingdom 🇬🇧. I'm an MSc Data Science student
