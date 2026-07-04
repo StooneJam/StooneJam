@@ -1,8 +1,4 @@
 <div>
-    <div align="center">
-  <img src="Art Pink GIF by dualvoidanima.gif" width="500" alt="banner"/>
-</div>
-<br/>
     <h2 align="center">😎 About Me</h2>
     <p>
         I'm from China 🇨🇳, currently living in Bristol, United Kingdom 🇬🇧. I'm an MSc Data Science student
@@ -15,6 +11,16 @@
       <li>💼 Actively exploring <strong>AI Engineering</strong> and Data Science roles in the UK</li>
       <li>💬 Ask me about <strong>multi-agent LLM systems, RAG pipelines, or model interpretability</strong></li>
     </ul>
+</div>
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="Art Pink GIF by dualvoidanima.gif" width="350" /></td>
+      <td align="center"><img src="Coming Out Love GIF by Derek Hunten.gif" width="350" /></td>
+    </tr>
+  </table>
 </div>
 <br/>
 
