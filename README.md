@@ -8,7 +8,7 @@
     <ul>
       <li>🎓 MSc Data Science @ University of Bristol | Graduate 2026</li>
       <li>🔭 Currently working on a <strong>neighbourhood-level GVA prediction</strong> dissertation for Swindon Borough Council, using <strong>TabPFN, XGBoost, LightGBM & SHAP</strong></li>
-      <li>💼 Actively exploring <strong>AI Engineering</strong> and <strong>Data Scientist</strong> roles in the UK</li>
+      <li>💼 Actively exploring <strong>AI Engineering</strong> , <strong>Data Scientist</strong> or <strong>Data Analyst</strong> roles in the UK</li>
       <li>💬 Ask me about <strong>multi-agent LLM systems, RAG pipelines, or model interpretability</strong></li>
     </ul>
 </div>
