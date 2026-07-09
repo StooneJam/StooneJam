@@ -12,17 +12,6 @@
       <li>💬 Ask me about <strong>multi-agent LLM systems, RAG pipelines, or model interpretability</strong></li>
     </ul>
 </div>
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="Art Pink GIF by dualvoidanima.gif" width="350" /></td>
-      <td align="center"><img src="Coming Out Love GIF by Derek Hunten.gif" width="350" /></td>
-    </tr>
-  </table>
-</div>
-<br/>
 
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
