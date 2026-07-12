@@ -59,11 +59,4 @@
   <p>🛌 <strong>Lumenia</strong> — CBT-i sleep coaching app with RAG pipeline & safety guardrails (FastAPI · Supabase · React): https://lumenia.space </p>
   <p>🤖 <strong>Dreamcode</strong> — Multi-agent competitor analysis system built with LangGraph: https://dreamcode.codes </p>
 </div>
-<br/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=StooneJam&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br/>
 </div>
