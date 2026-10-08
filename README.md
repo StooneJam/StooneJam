@@ -1,8 +1,8 @@
 <div>
     <h2 align="center">😎 About Me</h2>
     <p>
-        I'm from China, currently living in London, United Kingdom. I'm an MSc Data Science student
-        at the University of Bristol, passionate about Machine Learning, AI engineering, and building things
+        I'm from China, currently living in London, United Kingdom. I'm a recent MSc Data Science graduate from the University of Bristol, 
+        passionate about Machine Learning, AI engineering, and building things
         that actually get used 💻. When I'm not training models, you'll find me learning Thai, exploring philosophy, the cosmos, and world cultures🌏.
     </p>
     <ul>
